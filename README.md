@@ -16,3 +16,4 @@ HTML | CSS | JavaScript | PHP | MySQL
 ## 🚀 Featured Project
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fhdhsjsnsndnsns&repo=fhdhsjsnsndnsns&theme=tokyonight)
+![Repo Card](https://github.com/fhdhsjsnsndnsns/Aether.git)
