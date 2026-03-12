@@ -12,7 +12,6 @@ HTML | CSS | JavaScript | PHP | MySQL
 - Weather App
 - Loopi online shop
 - AI bot for daily life
+- Pomodoro Timer
+- Habit tracker
 
-## 🚀 Featured Project
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fhdhsjsnsndnsns&repo=fhdhsjsnsndnsns&theme=tokyonight)
