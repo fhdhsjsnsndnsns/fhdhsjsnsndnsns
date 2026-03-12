@@ -11,7 +11,8 @@ HTML | CSS | JavaScript | PHP | MySQL
 - Study Planner App
 - Weather App
 - Loopi online shop
-- AI bot for daily life
+- Expenses tracker
 - Pomodoro Timer
 - Habit tracker
+- Flashcard app
 
